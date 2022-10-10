@@ -6,3 +6,6 @@
 
 ## CDN :
 - https://cdnjs.com/
+
+## CLIP-PATH
+- https://bennettfeely.com/clippy/
