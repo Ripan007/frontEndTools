@@ -9,3 +9,6 @@
 
 ## CLIP-PATH
 - https://bennettfeely.com/clippy/
+
+##  support
+- https://caniuse.com/?search=flex
