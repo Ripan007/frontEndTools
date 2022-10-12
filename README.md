@@ -12,3 +12,6 @@
 
 ##  support
 - https://caniuse.com/?search=flex
+
+## colors
+- https://flatuicolors.com/
