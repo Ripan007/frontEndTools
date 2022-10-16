@@ -9,3 +9,4 @@
 | cdn |  https://cdnjs.com/|
 | icon | https://fontawesome.com/search?o=r&s=solid%2Cbrands|
 | images|  https://cdnjs.com/|
+|jQuery|   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>|
